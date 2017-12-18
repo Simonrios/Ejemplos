@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a un repositorio del trabajo de Simón Ríos de ImageMedia.cl
 
 You can use the [editor on GitHub](https://github.com/Simonrios/Ejemplos/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](http://www.imagemedia.cl/web) and ![Image](src)
+[http://www.imagemedia.cl/web](http://www.imagemedia.cl/web) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
